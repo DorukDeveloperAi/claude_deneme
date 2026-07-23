@@ -4,8 +4,11 @@
 **Kaynak:** `Ads_ÖzRapor_Haz23_2026_Tem22_2026.xlsx` (762 satır günlük kampanya kaydı)
 **Toplam Harcama:** **1.011.950 TL**
 
-> Bu klasördeki `Doruk_Reklam_Meta_Analiz.xlsx` dosyası aynı analizi canlı formüllerle içerir.
-> "4. 60 Bin TL Dağıtımı" sekmesindeki **sarı hücreyi** değiştirerek farklı bütçe senaryoları üretebilirsiniz.
+> Bu klasörde iki Excel var:
+> - **`Doruk_Reklam_Meta_Analiz.xlsx`** — tam analiz (6 sekme): özet, kategori analizi, kampanya detayı, 60K dağıtımı, sayfa×amaç matrisi, doktor artış senaryoları.
+> - **`Doruk_Butce_Kiyaslama_Raporu.xlsx`** — sade kıyaslama raporu: **Gerçekleşen · Mevcut Bütçe 60K · +10K (70K) · +20K (80K)** kolonları **yan yana**, ana kategori ve amaç bazında (günlük + aylık).
+>
+> Her iki dosyada da **sarı hücreler** (bütçe / ek tutarlar) değiştirilebilir; tablolar canlı formüllüdür.
 
 ---
 
