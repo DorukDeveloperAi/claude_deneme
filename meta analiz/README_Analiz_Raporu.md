@@ -6,7 +6,7 @@
 
 > Bu klasörde iki Excel var:
 > - **`Doruk_Reklam_Meta_Analiz.xlsx`** — tam analiz (6 sekme): özet, kategori analizi, kampanya detayı, 60K dağıtımı, sayfa×amaç matrisi, doktor artış senaryoları.
-> - **`Doruk_Butce_Kiyaslama_Raporu.xlsx`** — sade kıyaslama raporu: **Gerçekleşen · Mevcut Bütçe 60K · +10K (70K) · +20K (80K)** kolonları **yan yana**, ana kategori ve amaç bazında (günlük + aylık).
+> - **`Doruk_Butce_Kiyaslama_Raporu.xlsx`** — sade kıyaslama raporu: tek sayfada **hiyerarşik** (kategori üstte, amaç altında) olarak **Gerçekleşen · Mevcut Bütçe 60K · Doktora +10K (70K) · Doktora +20K (80K)** kolonları **yan yana** (aylık + günlük blok).
 >
 > Her iki dosyada da **sarı hücreler** (bütçe / ek tutarlar) değiştirilebilir; tablolar canlı formüllüdür.
 
